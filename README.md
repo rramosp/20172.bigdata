@@ -15,8 +15,8 @@ estamos trabajando sobre una máquina virtual con [Python Anaconda](http://conti
 Módulo  | Calificación | 
 ---------------- | --- |
 Problem sets      |  40% |  
-Quizes            |  40% |
-Online MOOC (*)    |   20% |
+Quizes            |  30% |
+Online MOOC (*)    |   30% |
 
 _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso_
 
