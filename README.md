@@ -12,11 +12,11 @@ estamos trabajando sobre una máquina virtual con [Python Anaconda](http://conti
 
 ## Calificaciones y calendario
 
-Calificación | 
----------------- | 
-Problem sets        40% |  
-Quizes              30% |
-Online MOOC (*)       20% |
+Módulo  | Calificación | 
+---------------- | --- |
+Problem sets      |  40% |  
+Quizes            |  30% |
+Online MOOC (*)    |   30% |
 
 _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso_
 
@@ -72,6 +72,11 @@ Para el **MOOC** la entrega ha de constar de:
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
+## Datos
+
+Los datos necesarios para la realizacin de los ejercicios de Spark están disponibles en:
+
+        [https://github.com/rramosp/sparkdata/raw/master/data.zip](https://github.com/rramosp/sparkdata/raw/master/data.zip)
 
 ## Cursos en línea
 Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](www.coursera.org), [Udacity](www.udacity.org) y [EDX](www.edx.org) tienen gran cantidad de cursos en Hadoop, Spark, Data Science, etc.
