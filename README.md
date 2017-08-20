@@ -66,7 +66,7 @@ Para cada **problemset** la entrega ha de constar de:
 - Un directorio llamado **PROBLEMSET_X_materiales** que incluya los notebooks, scripts, etc. realizados.
 
 Para el **MOOC** la entrega ha de constar de:
-- Un archivo PDF llamado **MOOC_description.pdf** donde se describa el MOOC (primera entrega)
+- Un archivo PDF llamado **MOOC_descripcion.pdf** donde se describa el MOOC (primera entrega)
 - Un archivo PDF llamado **MOOC_completado.pdf** donde se incluya la evidencia de la realizacin del MOOC
 - Un directorio llamado **MOOC_materiales** donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 
