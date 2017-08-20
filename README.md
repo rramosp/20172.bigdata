@@ -18,7 +18,7 @@ Problem sets        40% |
 Quizes              30% |
 Online MOOC (*)       20% |
 
-_(*) el MOOC ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso_
+_(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso_
 
 
     W34   Ago22, Ago23   1.intro    2.map-reduce
@@ -44,8 +44,7 @@ _(*) el MOOC ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluará
     Sep 17. Entrega psets 1,2,3
     Oct 22. Entrega psets 4,5,6
     Dic 3.  Entrega psets 7,8
-    Dic 15. Entrega MOOC
-    
+    Dic 15. Entrega MOOC    
     OFICIALES 
     Sep 29  Entrega primera calificacion
     Dic 11-19 Evaluaciones finales
@@ -73,13 +72,7 @@ Para el **MOOC** la entrega ha de constar de:
 
 
 ## Cursos en línea
-Existe mucho material en línea acerca de Big Data y Data Science. Algunos de los ejercicios de este curso están basados en los que podrás encontrar en los siguientes cursos en línea:
-
-* [Intro to Data Science](https://www.udacity.com/course/ud359), UDACITY (parte abierta)
-* [Intro to Hadoop and Map-Reduce](https://www.udacity.com/course/ud617), en UDACITY (parte abierta)
-* [Making Sense of Data](https://datasense.withgoogle.com/preview), en Google
-* [Introduction to Data Analysis](https://class.coursera.org/datasci-001), en Coursera
-* [Big Data Mini Course](http://ampcamp.berkeley.edu/big-data-mini-course/), en Berkeley
+Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](www.coursera.org), [Udacity](www.udacity.org) y [EDX](www.edx.org) tienen gran cantidad de cursos en Hadoop, Spark, Data Science, etc.
 
 ## Referencias
 
