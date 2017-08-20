@@ -1,4 +1,4 @@
-# BIG DATA 2015-1 UIS #
+# BIG DATA 2017-2 #
 
 El término Big Data se refiere a un área de conocimiento de reciente relevancia motivada por necesidades de análisis de datos a gran escala, tanto en la industria como en la academia, y que se desarrolla gracias a los avances tecnológicos y teóricos alcanzados en los últimos años. Integra procesos de aprendizaje computacional (machine learning), técnicas de cómputo y almacenamiento escalable (Hadoop, NoSQL) y equipos multidisciplinares para descubrir y extraer conocimiento latente en grandes colecciones de datos de una gran variedad y normalmente sin estructuras de datos homogéneas. 
 
@@ -36,18 +36,21 @@ Online course       20% |
     W48   Nov28, Nov29   psets8     mooc
     W49   Dic05, Dic06   qprep      quiz
 
+## Deadlines
+
     Sep 10. MOOC definido
     Sep 17. Entrega psets 1,2,3
     Oct 22. Entrega psets 4,5,6
     Dic 3.  Entrega psets 7,8
     Dic 15. Entrega MOOC
 
-    OFICIALES
-    Sep 29    Entrega primera calificacion
+**TODA ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
+
+    OFICIALES según [Calendario Académico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
+    Sep 29  Entrega primera calificacion
     Dic 11-19 Evaluaciones finales
     Dic 19    Entrega de notas
 
-    Calendario academico: https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf
 
 
 ## Cursos en línea
