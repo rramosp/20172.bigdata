@@ -87,5 +87,5 @@ Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](ht
 * [IBM2012] IBM, Understanding Big Data, McGraw-Hill. [download](http://www-01.ibm.com/software/data/infosphere/hadoop/mapreduce/)
 * [LAM2010], Lam, Hadoop in Action, Manning [web page](http://www.manning.com/lam/)
 * [WHITE2012], White, Hadoop, the definitive guide, O'Reilly [web site](http://hadoopbook.com/)
-* [GATES2011], Gates, Programming Pig, O'Reilly [web site](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
 * [ULLMAN2013], Ullman, Rajamaran, Mining of Massive Datasets, [web site](http://infolab.stanford.edu/~ullman/mmds.html)
+* [KARAU2017], Karau, et al., Learning Spark, [web site](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=matratsblo-20&linkId=017f2ca0634218271ce8ff8386dfa00b)
