@@ -46,10 +46,21 @@ Online course       20% |
 
 **TODA ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
-    OFICIALES según [Calendario Académico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
+    OFICIALES 
     Sep 29  Entrega primera calificacion
     Dic 11-19 Evaluaciones finales
     Dic 19    Entrega de notas
+
+Consulta el [Calendario Académico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
+
+## Entregas
+
+Las entregas se harán en la carpeta de Dropbox compartida para cada estudiante
+
+Para cada **problemset** la entrega ha de constar de:
+
+- Un archivo PDF llamado **PROBLEMSET_X.pdf** _(donde X es el número del problemset)_ que incluya el notebook correspondiente y cualquier informacin adicional que evidencie la realizacin del problemset (pantallazos, explicaciones, extractos de ficheros, etc.)
+- Un directorio llamado **PROBLEMSET_X** que incluya los notebooks, scripts, etc. realizados.
 
 
 
