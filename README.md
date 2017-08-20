@@ -70,7 +70,7 @@ Para el **MOOC** la entrega ha de constar de:
 - Un archivo PDF llamado **MOOC_completado.pdf** donde se incluya la evidencia de la realizacin del MOOC
 - Un directorio llamado **MOOC_materiales** donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 
-<font color="red">**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**</font>
+**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
 
 ## Cursos en línea
