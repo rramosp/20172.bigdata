@@ -76,7 +76,7 @@ Para el **MOOC** la entrega ha de constar de:
 
 Los datos necesarios para la realizacin de los ejercicios de Spark están disponibles en:
 
-        [https://github.com/rramosp/sparkdata/raw/master/data.zip](https://github.com/rramosp/sparkdata/raw/master/data.zip)
+[https://github.com/rramosp/sparkdata/raw/master/data.zip](https://github.com/rramosp/sparkdata/raw/master/data.zip)
 
 ## Cursos en línea
 Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](www.coursera.org), [Udacity](www.udacity.org) y [EDX](www.edx.org) tienen gran cantidad de cursos en Hadoop, Spark, Data Science, etc.
