@@ -16,7 +16,9 @@ Calificación |
 ---------------- | 
 Problem sets        40% |  
 Quizes              30% |
-Online course       20% |
+Online MOOC (*)       20% |
+
+_(*) el MOOC ha de cubrir aproximadamente 15 horas de esfuerzo, que se evaluarán según la definición y dinámica de cada caso_
 
 
     W34   Ago22, Ago23   1.intro    2.map-reduce
@@ -43,13 +45,13 @@ Online course       20% |
     Oct 22. Entrega psets 4,5,6
     Dic 3.  Entrega psets 7,8
     Dic 15. Entrega MOOC
-
-**TODA ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
-
+    
     OFICIALES 
     Sep 29  Entrega primera calificacion
     Dic 11-19 Evaluaciones finales
     Dic 19    Entrega de notas
+
+**TODA ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
 
 Consulta el [Calendario Académico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
@@ -59,9 +61,15 @@ Las entregas se harán en la carpeta de Dropbox compartida para cada estudiante
 
 Para cada **problemset** la entrega ha de constar de:
 
-- Un archivo PDF llamado **PROBLEMSET_X.pdf** _(donde X es el número del problemset)_ que incluya el notebook correspondiente y cualquier informacin adicional que evidencie la realizacin del problemset (pantallazos, explicaciones, extractos de ficheros, etc.)
-- Un directorio llamado **PROBLEMSET_X** que incluya los notebooks, scripts, etc. realizados.
+- Un archivo PDF llamado **PROBLEMSET_X.pdf** _(donde X es el número del problemset)_ que incluya el notebook correspondiente y cualquier información adicional que evidencie la realización del problemset (pantallazos, explicaciones, extractos de ficheros, etc.)
+- Un directorio llamado **PROBLEMSET_X_materiales** que incluya los notebooks, scripts, etc. realizados.
 
+Para el **MOOC** la entrega ha de constar de:
+- Un archivo PDF llamado **MOOC_description.pdf** donde se describa el MOOC (primera entrega)
+- Un archivo PDF llamado **MOOC_completado.pdf** donde se incluya la evidencia de la realizacin del MOOC
+- Un directorio llamado **MOOC_materiales** donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
+
+**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
 
 ## Cursos en línea
