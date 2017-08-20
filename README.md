@@ -72,9 +72,16 @@ Para el **MOOC** la entrega ha de constar de:
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
-## Datos
+## Información técnica
 
-Los datos necesarios para la realizacin de los ejercicios de Spark están disponibles en:
+La máquina virtual del curso tiene dos entornos Jupyter iPython:
+
+- [localhost:8001](http://localhost:8001) entorno Spark
+- [localhost:8002](http://localhost:8002) entorno Anaconda (machine learning), Hadoop, Mongo
+
+Servidor SSH en el puerto 2222 con vagrant/vagrant como usuario y pwd
+
+Los datos necesarios para la realización de los ejercicios de Spark están disponibles en:
 
 [https://github.com/rramosp/sparkdata/raw/master/data.zip](https://github.com/rramosp/sparkdata/raw/master/data.zip)
 
