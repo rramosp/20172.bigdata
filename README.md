@@ -79,7 +79,7 @@ Los datos necesarios para la realizacin de los ejercicios de Spark están dispon
 [https://github.com/rramosp/sparkdata/raw/master/data.zip](https://github.com/rramosp/sparkdata/raw/master/data.zip)
 
 ## Cursos en línea
-Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](www.coursera.org), [Udacity](www.udacity.org) y [EDX](www.edx.org) tienen gran cantidad de cursos en Hadoop, Spark, Data Science, etc.
+Existe mucho material en línea acerca de Big Data y Data Science. [Coursera](http://www.coursera.org), [Udacity](http://www.udacity.org) y [EDX](http://www.edx.org) tienen gran cantidad de cursos en Hadoop, Spark, Data Science, etc.
 
 ## Referencias
 
