@@ -6,74 +6,53 @@ Este curso cubre varias tecnologías y métodos usados en distintos entornos de 
 
 *Contacto*: Raúl Ramos rramosp@uis.edu.co http://raulramos.org
 
-Haz un clon de este repositorio para tener tu copia local y trabajar sobre las prácticas.
-
-`git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre.git`
-
-Cuando hagamos quizes, este es el repositorio que deberás clonar:
-
-`git clone https://bitbucket.org/rramosp/20151.bigd.uis.pre-quiz.git`
-
-
-estamos trabajando sobre una máquina virtual con [Python Anaconda](http://continuum.io/), [mrjob](https://pythonhosted.org/mrjob/), [Hadoop](https://hadoop.apache.org/) y [Ambari](http://ambari.apache.org/). Contáctame para más información.
-
-## Contenido
-
-### 1. Introducción
-Ley de Amdahl - Escalabilidad horizontal y vertical - Cómputo hacia los datos - Python - Estructuras de datos - Numpy - OO
-
-[Notas 01 - Introducción a Python](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2001%20-%20Introduccion_a_Python.ipynb)
---- [Problem Set 00 - Practica](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2000%20-%20Practica-Ejemplo.ipynb)
---- [Problem Set 01 - Python](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2001%20-%20Introduccion_a_Python.ipynb)
-
-### 2. Map-reduce
-Modelos de programación - Mapreduce - Mrjob - Instrumentación - Runners - Combiners
-
-[Notas 02 - Map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2002%20-%20Map-Reduce.ipynb) ---
-[Problem Set 02A - Map reduce básico](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2002A%20-%20Map-Reduce%20I.ipynb) ---
-[Problem Set 02B - Map reduce avanzado](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2002B%20-%20Map-Reduce%20II.ipynb/%3Fat%3Dmaster)
-
-### 3. Page rank
-Grafo de colecciones de documentos - Valores y vectores propios - Flujos de trabajo Map-reduce 
-
-[Notas 03 - Page Rank](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003%20-%20Page%20rank.ipynb) -- [Notas 03B - Flujos de trabajo map reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2003B%20-%20Flujos%20de%20Tareas%20Map%20Reduce.ipynb/%3Fat%3Dmaster) --[Problem Set 03 - Page rank con Map-Reduce](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2003%20-%20Page%20Rank%20con%20Map%20Reduce.ipynb/%3Fat%3Dmaster)
-
-### 4. Searching
-Locality Sensitive Hashing - Familias de funciones LSH y distancias - Aumentación de funciones LSH
-
-[Notas 04 - Locality Sensitive Hashing](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2004%20-%20Locality%20Sensitive%20Hashing.ipynb) -- [Problem Set 04 - LSH para distancia euclidiana](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2004%20-%20Locality%20Sensitive%20Hashing.ipynb/%3Fat%3Dmaster)
-
-### 5. Hadoop
-Arquitectura de Hadoop - Configuración y lanzamiento de jobs - integración mr-job - Jobs en Java
-
-[Notas 05 - Intro to Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2005%20-%20Intro%20to%20Hadoop.ipynb) -- [Problem Set 05 - Page Rank con Hadoop](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2005%20-%20Page%20Rank%20sobre%20Hadoop.ipynb)
-
-### 6. Herramientas sobre Hadoop
-PIG - HIVE
-
-[Notas 06A - PIG](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2006A%20-%20PIG.ipynb) [Notas 06B - Hive](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2006B%20-%20HIVE.ipynb) -- [Problem Set 06A - PIG](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2006A%20-%20PIG.ipynb) [Problem Set 06B - HIVE](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2006B%20-%20HIVE.ipynb)
-
-### 7. NoSQL
-Introducción a NoSQL - Tipos de bases de datos NoSQL - Expresividad vs Escalabilidad
-
-[Notas 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Notas%2007A%20-%20NoSQL%20Cassandra.ipynb) -- [Problem Set 07A - Cassandra](http://nbviewer.ipython.org/urls/bitbucket.org/rramosp/20151.bigd.uis.pre/raw/master/Problem%20Set%2007A%20-%20NoSQL%20Cassandra.ipynb)
+estamos trabajando sobre una máquina virtual con [Python Anaconda](http://continuum.io/), [mrjob](https://pythonhosted.org/mrjob/), [Hadoop](https://hadoop.apache.org/) y [Spark](https://spark.apache.org/). Contáctame para más información.
 
 ---
 
-Calificación | Fechas
----------------- | ------------
-Problem sets        40% |  Semana 6:        Talleres 1, 2 y 3 
-Online Quizes      30% | Semana 7:        Exámen parcial 1
-Exámenes             20% |  Semana 12:      Exámen parcial 2
-Online courses    10% (*)  |  Semana 13:      Talleres resto
-Extra            hasta 15% |
+## Calificaciones y calendario
 
-(*) _2 lecciones en algún curso online_
+Calificación | 
+---------------- | 
+Problem sets        40% |  
+Quizes              30% |
+Online course       20% |
+
+
+    W34   Ago22, Ago23   1.intro    2.map-reduce
+    W35   Ago29, Ago30   pset1+2    psets1+2
+    W36   Sep05, Sep06   3.pagerank 4.flujos-MR
+    W37   Sep12, Sep13   pset3      mooc
+    W38   Sep19, Sep20   qprep      quiz
+    W39   Sep26, Sep27   5.LSH      pset4
+    W40   Oct03, Nov04   6.hadoop   pset5
+    W41   Oct10, Oct11   7.hive     pset6
+    W42   Oct17, Oct18   psets      mooc
+    W43   Oct24, Oct25   qprep      quiz
+    W44   Oct31, Nov01   8.mongo    8.mongo
+    W45   Nov07, Nov08   pset7      mooc
+    W46   Nov14, Nov15   9.spark    9.spark
+    W47   Nov21, Nov22   psets8     psets8
+    W48   Nov28, Nov29   psets8     mooc
+    W49   Dic05, Dic06   qprep      quiz
+
+    Sep 10. MOOC definido
+    Sep 17. Entrega psets 1,2,3
+    Oct 22. Entrega psets 4,5,6
+    Dic 3.  Entrega psets 7,8
+    Dic 15. Entrega MOOC
+
+    OFICIALES
+    Sep 29    Entrega primera calificacion
+    Dic 11-19 Evaluaciones finales
+    Dic 19    Entrega de notas
+
+    Calendario academico: https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf
+
 
 ## Cursos en línea
 Existe mucho material en línea acerca de Big Data y Data Science. Algunos de los ejercicios de este curso están basados en los que podrás encontrar en los siguientes cursos en línea:
 
-* [Mining Massive Datasets](https://www.coursera.org/course/mmds), Coursera
 * [Intro to Data Science](https://www.udacity.com/course/ud359), UDACITY (parte abierta)
 * [Intro to Hadoop and Map-Reduce](https://www.udacity.com/course/ud617), en UDACITY (parte abierta)
 * [Making Sense of Data](https://datasense.withgoogle.com/preview), en Google
