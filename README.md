@@ -45,12 +45,14 @@ _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproxima
     Oct 22. Entrega psets 4,5,6
     Dic 3.  Entrega psets 7,8
     Dic 15. Entrega MOOC    
-    OFICIALES 
-    Sep 29  Entrega primera calificacion
-    Dic 11-19 Evaluaciones finales
-    Dic 19    Entrega de notas
 
 **TODA ENTREGA FUERA DE PLAZO SERÁ PENALIZADA CON UN 50%**
+
+
+    OFICIALES
+    Sep 29    Entrega primera calificacion
+    Dic 11-19 Evaluaciones finales
+    Dic 19    Entrega de notas
 
 Consulta el [Calendario Académico](https://www.uis.edu.co/webUIS/es/academia/calendariosAcademicos/2017/acAcad014-2017.pdf)
 
@@ -68,7 +70,7 @@ Para el **MOOC** la entrega ha de constar de:
 - Un archivo PDF llamado **MOOC_completado.pdf** donde se incluya la evidencia de la realizacin del MOOC
 - Un directorio llamado **MOOC_materiales** donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 
-**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
+<font color="red">**TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**</font>
 
 
 ## Cursos en línea
