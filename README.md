@@ -73,6 +73,12 @@ Para el **MOOC** la entrega ha de constar de:
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
 
+La calificación de tu informe del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
+
+- COMPLEJIDAD DEL MOOC
+- COMPLECIÓN 
+- CLARIDAD DEL REPORTE
+
 ## Información técnica
 
 La máquina virtual del curso tiene dos entornos Jupyter iPython:
