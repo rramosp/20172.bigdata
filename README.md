@@ -64,6 +64,7 @@ Para cada **problemset** la entrega ha de constar de:
 
 - Un archivo PDF llamado **PROBLEMSET_X.pdf** _(donde X es el número del problemset)_ que incluya el notebook correspondiente y cualquier información adicional que evidencie la realización del problemset (pantallazos, explicaciones, extractos de ficheros, etc.)
 - Un directorio llamado **PROBLEMSET_X_materiales** que incluya los notebooks, scripts, etc. realizados.
+- Los notebooks que contengan celda de autenticación deben de **mostrar tu usuario gmail autenticado**.
 
 Para el **MOOC** la entrega ha de constar de:
 - Un archivo PDF llamado **MOOC_descripcion.pdf** donde se describa el MOOC (primera entrega)
@@ -71,6 +72,12 @@ Para el **MOOC** la entrega ha de constar de:
 - Un directorio llamado **MOOC_materiales** donde se incluyan los materiales pertinentes (scripts, datos, etc.) que apoyen la evidencia mostrada en el archivo PDF.
 
 **TODA ENTREGA QUE NO CUMPLA CON ESTAS CONVENCIONES SERÁ CONSIDERADA COMO NO REALIZADA**
+
+La calificación de tu informe del curso vendrá dada por los siguientes criterios con el mismo peso cada uno:
+
+- COMPLEJIDAD DEL MOOC
+- COMPLECIÓN 
+- CLARIDAD DEL REPORTE
 
 ## Información técnica
 
