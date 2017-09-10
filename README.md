@@ -23,11 +23,11 @@ _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproxima
 
     W34   Ago22, Ago23   1.intro    2.map-reduce
     W35   Ago29, Ago30   pset1+2    psets1+2
-    W36   Sep05, Sep06   3.pagerank 4.flujos-MR
-    W37   Sep12, Sep13   pset3      mooc
-    W38   Sep19, Sep20   qprep      quiz
-    W39   Sep26, Sep27   5.LSH      pset4
-    W40   Oct03, Nov04   6.hadoop   pset5
+    W36   Sep05, Sep06   3.pagerank pset3
+    W37   Sep12, Sep13   pset3      qprep
+    W38   Sep19, Sep20   quiz       5.LSH
+    W39   Sep26, Sep27   pset4      6.hadoop
+    W40   Oct03, Nov04   pset5      psets
     W41   Oct10, Oct11   7.hive     pset6
     W42   Oct17, Oct18   psets      mooc
     W43   Oct24, Oct25   qprep      quiz
