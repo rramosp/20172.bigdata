@@ -44,7 +44,7 @@ _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproxima
 
     Sep 10. MOOC definido
     Sep 17. Entrega psets 1,2,3
-    Oct 22. Entrega psets 4,5,6
+    Oct 29. Entrega psets 4,5,6
     Dic 3.  Entrega psets 7,8
     Dic 15. Entrega MOOC    
 
