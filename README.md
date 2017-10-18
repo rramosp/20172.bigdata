@@ -30,13 +30,15 @@ _(*) el MOOC ha de tratar un temática asociada al curso y ha de cubrir aproxima
     W40   Oct03, Nov04   pset5      psets
     W41   Oct10, Oct11   7.hive     pset6
     W42   Oct17, Oct18   psets      mooc
-    W43   Oct24, Oct25   qprep      quiz
-    W44   Oct31, Nov01   8.mongo    8.mongo
-    W45   Nov07, Nov08   pset7      mooc
-    W46   Nov14, Nov15   9.spark    9.spark
-    W47   Nov21, Nov22   psets8     psets8
+    W43   Oct24, Oct25   qprep      psets
+    W44   Oct31, Nov01   quiz       8.mongo
+    W45   Nov07, Nov08   8.mongo    mooc
+    W46   Nov14, Nov15   psets      9.spark
+    W47   Nov21, Nov22   9.spark    psets8
     W48   Nov28, Nov29   psets8     mooc
     W49   Dic05, Dic06   qprep      quiz
+
+
 
 ## Deadlines
 
